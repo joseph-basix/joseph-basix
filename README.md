@@ -25,7 +25,7 @@ Je suis ouvert aux collaborations et aux contributions. Si vous avez des idées 
 
 ## Contact
 
-Vous pouvez me contacter par email à joseph.basix@example.com ou me suivre sur [linkendIn] [josephbasix@gmail.com] pour rester informé de mes derniers projets et publications.
+Vous pouvez me contacter par email à [josephbasix@gmail.com] pour rester informé de mes derniers projets et publications.
 
 Merci d'avoir visité mon profil GitHub ! J'ai hâte de collaborer avec vous.
 
