@@ -6,9 +6,9 @@ Salut, je suis Joseph Basix, un développeur Fullstack passionné par la créati
 
 - **Langages de programmation** : JavaScript
 - **Frontend** : HTML, CSS, React,
-- **Backend** : Node.js, Express, Django
+- **Backend** : Node.js, Express
 - **Base de données** : MySQL, MongoDB
-- **Outils de développement** : Git, Visual Studio Code, Postman
+- **Outils de développement** : Git, Visual Studio Code
 
 ## Projets récents
 
